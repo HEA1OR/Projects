@@ -1,2 +1,2 @@
-# python-exercise
- python-exercise，mainly opencv
+# Projects
+ python learning ，opencv or other
